@@ -14,7 +14,7 @@ object Main32 {
    // println("the number is:" + calc(1) )
 	 println( Shape("circle") )
    println(Shape("bar"))
-   println(Shape(""))
+  // println(Shape(""))
   
   }
   
